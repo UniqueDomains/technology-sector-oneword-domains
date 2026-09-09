@@ -16,7 +16,7 @@ This selection covers one-word technology domain names across 506 different TLDs
 
 **Public extract:** 1,000 rows · **Live catalog:** 193,967 domains · **Median ask:** $682.05 · **High-demand under $2,500:** 887
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                           |
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| tech.airforce   | available | $134.98    | —             | high           | medium | 4      | namecheap                           |
+| data.new        | available | $488.98    | $601.98       | medium         | medium | 4      | namecheap                           |
 | analysis.io     | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                        |
 | big.cloud       | premium   | $6,250     | $6,250        | high           | medium | 3      | name.com                            |
-| tech.apartments | available | $19.99     | —             | high           | medium | 4      | name.com                            |
+| data.republican | available | $5.98      | $43.98        | medium         | medium | 4      | namecheap                           |
 | education.net   | resell    | $230,000   | $19.99        | high           | low    | 9      | Domain.com - Network Solutions, LLC |
-| big.codes       | premium   | $82.50     | $82.50        | high           | medium | 3      | name.com                            |
-| tech.auto       | available | $2,950     | —             | high           | medium | 4      | namecheap                           |
-| big.ai          | resell    | —          | —             | high           | medium | 3      | Deep Vision Architects              |
-| big.engineer    | premium   | $75        | $75           | high           | medium | 3      | name.com                            |
-| tech.car        | available | $2,400     | —             | high           | medium | 4      | namecheap                           |
-| big.digital     | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.                     |
-| big.ninja       | premium   | $500       | $500          | high           | medium | 3      | name.com                            |
-| tech.cars       | available | $2,950     | —             | high           | medium | 4      | namecheap                           |
-| big.systems     | resell    | —          | —             | high           | medium | 3      | Edomains LLC                        |
-| big.online      | premium   | $1,562.50  | $6,250        | high           | medium | 3      | name.com                            |
-| tech.hiv        | available | $184.99    | —             | high           | medium | 4      | name.com                            |
-| big.technology  | resell    | —          | —             | high           | medium | 3      | Dynadot Inc                         |
-| big.parts       | premium   | $123.75    | $123.75       | high           | medium | 3      | name.com                            |
+| big.tech        | premium   | $1,562.50  | $6,250        | high           | medium | 3      | name.com                            |
 | tech.hosting    | available | $398       | —             | high           | medium | 4      | namecheap                           |
+| big.ai          | resell    | —          | —             | high           | medium | 3      | Deep Vision Architects              |
+| web.tech        | premium   | $7,812.50  | $31,250       | high           | medium | 3      | name.com                            |
+| based.equipment | available | $19.99     | —             | high           | medium | 5      | name.com                            |
+| big.technology  | resell    | —          | —             | high           | medium | 3      | Dynadot Inc                         |
+| code.shop       | premium   | $12,500    | —             | high           | medium | 4      | name.com                            |
+| based.parts     | available | $15.99     | —             | high           | medium | 5      | name.com                            |
 | web.archi       | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC                        |
+| code.tech       | premium   | $7,812.50  | —             | high           | medium | 4      | name.com                            |
+| based.supplies  | available | $24.99     | $24.99        | high           | medium | 5      | namesilo                            |
+| web.exchange    | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                         |
+| data.press      | premium   | $937.50    | $1,875        | medium         | medium | 4      | name.com                            |
+| center.ryukyu   | available | $22.98     | —             | high           | low    | 6      | namecheap                           |
+| web.solutions   | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
