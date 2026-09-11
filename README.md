@@ -16,7 +16,7 @@ This selection covers one-word technology domain names across 506 different TLDs
 
 **Public extract:** 1,000 rows · **Live catalog:** 197,312 domains · **Median ask:** $673.39 · **High-demand under $2,500:** 870
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| code.realty       | available | $109.99    | $299          | high           | medium | 4      | namesilo         |
-| systems.xxx       | resell    | $154.98    | —             | low            | low    | 7      | GoDaddy.com, LLC |
-| stage.fun         | premium   | $312.50    | —             | medium         | medium | 5      | name.com         |
-| cloud.football    | available | $25.99     | $25.99        | medium         | medium | 5      | namesilo         |
-| virtual.link      | resell    | $450,110   | —             | medium         | low    | 7      | NameSilo, LLC    |
-| world.stream      | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC    |
-| cloud.ryukyu      | available | $22.98     | —             | high           | medium | 5      | namecheap        |
-| net.services      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
-| driven.accountant | premium   | $116       | $29.50        | medium         | low    | 6      | namesilo         |
-| smart.ryukyu      | available | $22.98     | —             | high           | medium | 5      | namecheap        |
-| web.berlin        | resell    | —          | —             | high           | medium | 3      | —                |
-| driven.art        | premium   | $291.20    | $83.30        | medium         | low    | 6      | namesilo         |
-| design.recipes    | available | $5.48      | $95.98        | medium         | medium | 6      | namecheap        |
-| web.camp          | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
-| driven.bar        | premium   | $81.90     | $117          | medium         | low    | 6      | namecheap        |
-| driven.army       | available | $17.48     | $48.98        | medium         | low    | 6      | namecheap        |
-| web.engineering   | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
-| driven.bid        | premium   | $437.50    | $62.50        | medium         | low    | 6      | name.com         |
-| driven.baby       | available | $1.80      | $81.98        | medium         | low    | 6      | namecheap        |
-| web.finance       | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| code.realty       | available | $109.99    | $299          | high           | medium | 4      | namesilo        |
+| hightech.bio      | resell    | $9.99      | —             | medium         | low    | 9      | Spaceship, Inc. |
+| stage.fun         | premium   | $312.50    | —             | medium         | medium | 5      | name.com        |
+| cloud.football    | available | $25.99     | $25.99        | medium         | medium | 5      | namesilo        |
+| hightech.health   | resell    | $19.99     | —             | medium         | low    | 9      | Spaceship, Inc. |
+| world.stream      | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC   |
+| cloud.ryukyu      | available | $22.98     | —             | high           | medium | 5      | namecheap       |
+| net.services      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| backup.dev        | premium   | $811.25    | —             | high           | low    | 6      | name.com        |
+| cloud.tienda      | available | $59.99     | $59.99        | medium         | medium | 5      | namesilo        |
+| web.berlin        | resell    | —          | —             | high           | medium | 3      | —               |
+| driven.accountant | premium   | $116       | $29.50        | medium         | low    | 6      | namesilo        |
+| smart.ryukyu      | available | $22.98     | —             | high           | medium | 5      | namecheap       |
+| web.camp          | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| driven.bid        | premium   | $437.50    | $62.50        | medium         | low    | 6      | name.com        |
+| coding.ryukyu     | available | $22.98     | —             | high           | low    | 6      | namecheap       |
+| web.engineering   | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| driven.cfd        | premium   | $384       | $768          | medium         | low    | 6      | namesilo        |
+| driven.actor      | available | $9.48      | $54.98        | medium         | low    | 6      | namecheap       |
+| web.finance       | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
