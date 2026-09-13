@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (199,244)
+# One-Word Technology Domain Names (199,705)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-199%2C244%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-199%2C705%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **199,244 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **199,705 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 199,244 domains · **Median ask:** $668.51 · **High-demand under $2,500:** 1,016
+**Public extract:** 1,000 rows · **Live catalog:** 199,705 domains · **Median ask:** $667.11 · **High-demand under $2,500:** 1,016
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                           |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| big.hosting     | available | $309.99     | $329.99       | high           | medium | 3      | namesilo                            |
-| service.io      | resell    | $740,720.75 | $59.99        | medium         | medium | 7      | Key-Systems GmbH                    |
-| big.cloud       | premium   | $6,250      | $6,250        | high           | medium | 3      | name.com                            |
-| tech.adult      | available | $166.98     | —             | high           | medium | 4      | namecheap                           |
-| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                        |
-| big.codes       | premium   | $82.50      | $82.50        | high           | medium | 3      | name.com                            |
-| tech.airforce   | available | $134.98     | —             | high           | medium | 4      | namecheap                           |
-| education.net   | resell    | $230,000    | $19.99        | high           | low    | 9      | Domain.com - Network Solutions, LLC |
-| big.cyou        | premium   | $107.25     | $143          | high           | medium | 3      | namecheap                           |
-| tech.apartments | available | $19.99      | —             | high           | medium | 4      | name.com                            |
-| big.ai          | resell    | —           | —             | high           | medium | 3      | Deep Vision Architects              |
-| big.engineer    | premium   | $75         | $75           | high           | medium | 3      | name.com                            |
-| tech.audio      | available | $159.98     | —             | high           | medium | 4      | namecheap                           |
-| big.digital     | resell    | —           | —             | high           | medium | 3      | Spaceship, Inc.                     |
-| big.icu         | premium   | $54.38      | $72.50        | high           | medium | 3      | name.com                            |
-| tech.auto       | available | $2,950      | —             | high           | medium | 4      | namecheap                           |
-| big.network     | resell    | —           | —             | high           | medium | 3      | Dynadot Inc                         |
-| big.ninja       | premium   | $500        | $500          | high           | medium | 3      | name.com                            |
-| tech.car        | available | $2,400      | —             | high           | medium | 4      | namecheap                           |
-| big.systems     | resell    | —           | —             | high           | medium | 3      | Edomains LLC                        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| code.realty       | available | $109.99   | $299          | high           | medium | 4      | namesilo         |
+| systems.xxx       | resell    | $154.98   | —             | low            | low    | 7      | GoDaddy.com, LLC |
+| tech.tech         | premium   | $3,125    | —             | high           | medium | 4      | name.com         |
+| cloud.football    | available | $25.99    | $25.99        | medium         | medium | 5      | namesilo         |
+| virtual.link      | resell    | $450,110  | —             | medium         | low    | 7      | NameSilo, LLC    |
+| driven.channel    | premium   | $73.75    | $73.75        | medium         | low    | 6      | name.com         |
+| cloud.ryukyu      | available | $22.98    | —             | high           | medium | 5      | namecheap        |
+| web.camp          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| driven.cricket    | premium   | $437.50   | $62.50        | medium         | low    | 6      | name.com         |
+| smart.ryukyu      | available | $22.98    | —             | high           | medium | 5      | namecheap        |
+| web.engineering   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| driven.cv         | premium   | $132.80   | $17.70        | medium         | low    | 6      | namesilo         |
+| center.ryukyu     | available | $22.98    | —             | high           | low    | 6      | namecheap        |
+| web.finance       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| driven.download   | premium   | $437.50   | $62.50        | medium         | low    | 6      | name.com         |
+| design.recipes    | available | $5.48     | $95.98        | medium         | medium | 6      | namecheap        |
+| web.markets       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| driven.foo        | premium   | $161.25   | $161.25       | medium         | low    | 6      | name.com         |
+| driven.associates | available | $12.98    | $49.98        | medium         | low    | 6      | namecheap        |
+| web.solutions     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 199,244 live domains                       |
+| 1,000-row public sample | 199,705 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1,016 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
