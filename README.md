@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (90,528)
+# One-Word Technology Domain Names (90,847)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-90%2C528%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-90%2C847%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **90,528 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **90,847 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 90,528 domains · **Median ask:** $505.02 · **High-demand under $2,500:** 346
+**Public extract:** 1,000 rows · **Live catalog:** 90,847 domains · **Median ask:** $503.81 · **High-demand under $2,500:** 342
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/technology`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| data.new         | available | $488.98   | $601.98       | medium         | medium | 4      | namecheap                                                 |
-| hightech.run     | resell    | $6.99     | —             | medium         | low    | 9      | Spaceship, Inc.                                           |
-| the.live         | premium   | $700      | $1,400        | high           | medium | 3      | namecheap                                                 |
-| data.republican  | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap                                                 |
-| technology.army  | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC                                          |
-| code.shop        | premium   | $12,500   | —             | high           | medium | 4      | name.com                                                  |
-| data.ryukyu      | available | $22.98    | —             | high           | medium | 4      | namecheap                                                 |
-| web.club         | resell    | —         | —             | medium         | medium | 3      | Porkbun                                                   |
-| data.press       | premium   | $975      | $1,950        | medium         | medium | 4      | namecheap                                                 |
-| tech.adult       | available | $166.98   | —             | high           | medium | 4      | namecheap                                                 |
-| web.kitchen      | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
-| tech.accountants | premium   | $138.60   | $138.60       | high           | medium | 4      | namecheap                                                 |
-| tech.airforce    | available | $134.98   | —             | high           | medium | 4      | namecheap                                                 |
-| web.solutions    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| tech.attorney    | premium   | $1,250    | —             | high           | medium | 4      | name.com                                                  |
-| tech.apartments  | available | $19.99    | —             | high           | medium | 4      | name.com                                                  |
-| data.chat        | resell    | —         | —             | medium         | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| tech.auction     | premium   | $500      | —             | high           | medium | 4      | name.com                                                  |
-| tech.audio       | available | $159.98   | —             | high           | medium | 4      | namecheap                                                 |
-| data.city        | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                           |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| data.new         | available | $488.98   | $601.98       | medium         | medium | 4      | namecheap        |
+| hightech.run     | resell    | $6.99     | —             | medium         | low    | 9      | Spaceship, Inc.  |
+| the.live         | premium   | $650      | $1,300        | high           | medium | 3      | namecheap        |
+| data.republican  | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap        |
+| technology.army  | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC |
+| code.shop        | premium   | $12,500   | —             | high           | medium | 4      | name.com         |
+| data.ryukyu      | available | $22.98    | —             | high           | medium | 4      | namecheap        |
+| web.club         | resell    | —         | —             | medium         | medium | 3      | Porkbun          |
+| data.press       | premium   | $975      | $1,950        | medium         | medium | 4      | namecheap        |
+| tech.adult       | available | $166.98   | —             | high           | medium | 4      | namecheap        |
+| web.kitchen      | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
+| tech.accountants | premium   | $138.60   | $138.60       | high           | medium | 4      | namecheap        |
+| tech.airforce    | available | $134.98   | —             | high           | medium | 4      | namecheap        |
+| web.solutions    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| tech.attorney    | premium   | $1,250    | —             | high           | medium | 4      | name.com         |
+| tech.apartments  | available | $19.99    | —             | high           | medium | 4      | name.com         |
+| data.city        | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.  |
+| tech.auction     | premium   | $500      | —             | high           | medium | 4      | name.com         |
+| tech.audio       | available | $159.98   | —             | high           | medium | 4      | namecheap        |
+| data.forsale     | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 90,528 live domains                        |
+| 1,000-row public sample | 90,847 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 346 high-demand names under $2,500         |
+| Basic exported fields   | 342 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
