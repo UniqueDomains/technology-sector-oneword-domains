@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (97,785)
+# One-Word Technology Domain Names (52,049)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-97%2C785%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C049%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **97,785 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **52,049 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 97,785 domains · **Median ask:** $510.80 · **High-demand under $2,500:** 205
+**Public extract:** 1,000 rows · **Live catalog:** 52,049 domains · **Median ask:** $409.88 · **High-demand under $2,500:** 204
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| data.ryukyu     | available | $17.98    | $22.98        | medium         | low    | 4      | namecheap                                                 |
-| net.holiday     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| the.mobile      | premium   | $2,500    | —             | high           | medium | 3      | name.com                                                  |
-| tech.auto       | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
-| data.chat       | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| code.shop       | premium   | $12,500   | —             | high           | medium | 4      | name.com                                                  |
-| tech.car        | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
-| data.it         | resell    | —         | —             | medium         | low    | 4      | —                                                         |
-| data.zip        | premium   | $648.70   | $648.70       | medium         | low    | 4      | namecheap                                                 |
-| tech.cars       | available | $2,070    | $2,950        | medium         | low    | 4      | namecheap                                                 |
-| data.ltd        | resell    | —         | —             | medium         | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
-| tech.bot        | premium   | $6,900    | $6,900        | medium         | low    | 4      | namesilo                                                  |
-| tech.immobilien | available | $39.98    | $43.98        | medium         | low    | 4      | namecheap                                                 |
-| data.shop       | resell    | —         | —             | medium         | low    | 4      | GMO Registry                                              |
-| tech.build      | premium   | $625      | $625          | medium         | low    | 4      | name.com                                                  |
-| gadget.archi    | available | $19.99    | $103.99       | medium         | low    | 6      | namesilo                                                  |
-| data.surf       | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                                          |
-| tech.camera     | premium   | $520      | $520          | medium         | low    | 4      | namecheap                                                 |
-| gadget.ceo      | available | $10.19    | $129.99       | medium         | low    | 6      | namesilo                                                  |
-| data.tech       | resell    | —         | —             | medium         | low    | 4      | Namify Domains Inc                                        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| host.accountants | available | $43.99    | $153.99       | high           | medium | 4      | name.com                                                  |
+| analyze.homes    | resell    | $1.99     | —             | high           | low    | 7      | name.com                                                  |
+| host.attorney    | premium   | $3,125    | $3,125        | high           | medium | 4      | name.com                                                  |
+| host.dental      | available | $78.99    | $78.99        | high           | medium | 4      | namesilo                                                  |
+| net.dating       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| host.bar         | premium   | $3,937.50 | $5,625        | high           | medium | 4      | name.com                                                  |
+| host.football    | available | $19.99    | $37.99        | high           | medium | 4      | name.com                                                  |
+| net.services     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| host.boo         | premium   | $623.75   | $623.75       | high           | medium | 4      | name.com                                                  |
+| host.giving      | available | $5.99     | $40.99        | high           | medium | 4      | name.com                                                  |
+| host.agency      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| host.day         | premium   | $623.75   | $623.75       | high           | medium | 4      | name.com                                                  |
+| host.hamburg     | available | $59.99    | $59.99        | high           | medium | 4      | name.com                                                  |
+| host.army        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| host.download    | premium   | $116      | $29.50        | high           | medium | 4      | namesilo                                                  |
+| host.jewelry     | available | $19.99    | $84.99        | high           | medium | 4      | name.com                                                  |
+| host.careers     | resell    | —         | —             | high           | medium | 4      | HOSTINGER operations, UAB                                 |
+| host.film        | premium   | $625      | $625          | high           | medium | 4      | name.com                                                  |
+| host.maison      | available | $24.99    | $83.99        | high           | medium | 4      | name.com                                                  |
+| host.express     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 97,785 live domains                        |
+| 1,000-row public sample | 52,049 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 205 high-demand names under $2,500         |
+| Basic exported fields   | 204 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
