@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (52,049)
+# One-Word Technology Domain Names (40,455)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C049%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-40%2C455%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **52,049 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **40,455 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 52,049 domains · **Median ask:** $409.88 · **High-demand under $2,500:** 204
+**Public extract:** 1,000 rows · **Live catalog:** 40,455 domains · **Median ask:** $434.71 · **High-demand under $2,500:** 151
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/technology`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| host.accountants | available | $43.99    | $153.99       | high           | medium | 4      | name.com                                                  |
-| analyze.homes    | resell    | $1.99     | —             | high           | low    | 7      | name.com                                                  |
-| host.attorney    | premium   | $3,125    | $3,125        | high           | medium | 4      | name.com                                                  |
-| host.dental      | available | $78.99    | $78.99        | high           | medium | 4      | namesilo                                                  |
-| net.dating       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| host.bar         | premium   | $3,937.50 | $5,625        | high           | medium | 4      | name.com                                                  |
-| host.football    | available | $19.99    | $37.99        | high           | medium | 4      | name.com                                                  |
-| net.services     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| host.boo         | premium   | $623.75   | $623.75       | high           | medium | 4      | name.com                                                  |
-| host.giving      | available | $5.99     | $40.99        | high           | medium | 4      | name.com                                                  |
-| host.agency      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| host.day         | premium   | $623.75   | $623.75       | high           | medium | 4      | name.com                                                  |
-| host.hamburg     | available | $59.99    | $59.99        | high           | medium | 4      | name.com                                                  |
-| host.army        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| host.download    | premium   | $116      | $29.50        | high           | medium | 4      | namesilo                                                  |
-| host.jewelry     | available | $19.99    | $84.99        | high           | medium | 4      | name.com                                                  |
-| host.careers     | resell    | —         | —             | high           | medium | 4      | HOSTINGER operations, UAB                                 |
-| host.film        | premium   | $625      | $625          | high           | medium | 4      | name.com                                                  |
-| host.maison      | available | $24.99    | $83.99        | high           | medium | 4      | name.com                                                  |
-| host.express     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| host.barcelona   | available | $38.98    | $38.98        | high           | medium | 4      | namecheap          |
+| cloud.online     | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
+| kit.store        | premium   | $781.25   | —             | high           | low    | 3      | name.com           |
+| host.bike        | available | $5.98     | $48.98        | high           | medium | 4      | namecheap          |
+| net.dating       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC        |
+| host.band        | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo           |
+| host.car         | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo           |
+| host.army        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC   |
+| host.bar         | premium   | $3,937.50 | $5,625        | high           | medium | 4      | name.com           |
+| host.cars        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo           |
+| host.biz         | resell    | —         | —             | high           | medium | 4      | Dynadot Inc        |
+| host.berlin      | premium   | $1,284.40 | $1,284.40     | high           | medium | 4      | namecheap          |
+| host.claims      | available | $11.98    | $82.98        | high           | medium | 4      | namecheap          |
+| host.boutique    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc        |
+| host.blog        | premium   | $640      | $2,660        | high           | medium | 4      | namesilo           |
+| host.cleaning    | available | $75.49    | $75.49        | high           | medium | 4      | namesilo           |
+| host.buzz        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC   |
+| host.boo         | premium   | $623.75   | $623.75       | high           | medium | 4      | name.com           |
+| host.contractors | available | $9.99     | $45.99        | high           | medium | 4      | name.com           |
+| host.holdings    | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 52,049 live domains                        |
+| 1,000-row public sample | 40,455 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 204 high-demand names under $2,500         |
+| Basic exported fields   | 151 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
