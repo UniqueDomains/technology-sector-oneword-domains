@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (104,449)
+# One-Word Technology Domain Names (110,658)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-104%2C449%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-110%2C658%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **104,449 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **110,658 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 104,449 domains · **Median ask:** $511.55 · **High-demand under $2,500:** 424
+**Public extract:** 1,000 rows · **Live catalog:** 110,658 domains · **Median ask:** $485.49 · **High-demand under $2,500:** 386
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/technology`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| data.furniture  | available | $27.99    | $94.99        | high           | medium | 4      | namesilo                                  |
-| data.gratis     | resell    | $250      | —             | high           | medium | 4      | GoDaddy.com, LLC                          |
-| data.attorney   | premium   | $3,900    | $3,900        | high           | medium | 4      | namecheap                                 |
-| data.guitars    | available | $104.99   | $114.99       | high           | medium | 4      | namesilo                                  |
-| data.rentals    | resell    | $85.80    | $85.80        | high           | medium | 4      | GoDaddy.com, LLC                          |
-| data.bargains   | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo                                  |
-| data.holiday    | available | $64.99    | $64.99        | high           | medium | 4      | namesilo                                  |
-| computing.fund  | resell    | $15.99    | —             | high           | low    | 9      | Spaceship, Inc.                           |
-| data.boo        | premium   | $648.70   | $648.70       | high           | medium | 4      | namecheap                                 |
-| data.reise      | available | $102.98   | $127.98       | high           | medium | 4      | namecheap                                 |
-| computing.gg    | resell    | $68.98    | $82.98        | high           | low    | 9      | GoDaddy.com LLC (https://www.godaddy.com) |
-| data.channel    | premium   | $648.70   | $648.70       | high           | medium | 4      | namecheap                                 |
-| data.reisen     | available | $3.99     | $20.99        | high           | medium | 4      | namesilo                                  |
-| data.ag         | resell    | —         | —             | high           | medium | 4      | 1API GmbH                                 |
-| data.college    | premium   | $13,800   | $13,800       | high           | medium | 4      | namesilo                                  |
-| data.republican | available | $7.49     | $28.99        | high           | medium | 4      | namesilo                                  |
-| data.agency     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                          |
-| data.courses    | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo                                  |
-| data.ryukyu     | available | $17.98    | $22.98        | high           | medium | 4      | namecheap                                 |
-| data.apartments | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                          |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| data.car           | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo         |
+| data.games         | resell    | $1,300    | $1,300        | high           | medium | 4      | GoDaddy.com, LLC |
+| data.attorney      | premium   | $3,900    | $3,900        | high           | medium | 4      | namecheap        |
+| data.christmas     | available | $1.80     | $49.98        | high           | medium | 4      | namecheap        |
+| data.sarl          | resell    | $42.90    | $42.90        | high           | medium | 4      | GoDaddy.com, LLC |
+| data.bar           | premium   | $2,047.50 | $2,925        | high           | medium | 4      | namecheap        |
+| data.hamburg       | available | $69.98    | $73.98        | high           | medium | 4      | namecheap        |
+| tech.rich          | resell    | $149.99   | —             | high           | medium | 4      | Porkbun LLC      |
+| data.bot           | premium   | $6,900    | $6,900        | high           | medium | 4      | namesilo         |
+| data.holiday       | available | $64.99    | $64.99        | high           | medium | 4      | namesilo         |
+| computing.app      | resell    | $498.75   | —             | high           | low    | 9      | Spaceship, Inc.  |
+| data.broker        | premium   | $6,500    | $6,500        | high           | medium | 4      | namecheap        |
+| data.immobilien    | available | $37.99    | $37.99        | high           | medium | 4      | namesilo         |
+| computing.computer | resell    | $29.99    | —             | high           | low    | 9      | GoDaddy.com, LLC |
+| data.charity       | premium   | $242      | $242          | high           | medium | 4      | namesilo         |
+| data.new           | available | $488.98   | $601.98       | high           | medium | 4      | namecheap        |
+| engineering.info   | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
+| data.dating        | premium   | $1,040    | $1,040        | high           | medium | 4      | namecheap        |
+| data.reise         | available | $102.98   | $127.98       | high           | medium | 4      | namecheap        |
+| data.ag            | resell    | —         | —             | high           | medium | 4      | 1API GmbH        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 104,449 live domains                       |
+| 1,000-row public sample | 110,658 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 424 high-demand names under $2,500         |
+| Basic exported fields   | 386 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
