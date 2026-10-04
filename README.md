@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (148,839)
+# One-Word Technology Domain Names (151,740)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-148%2C839%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-151%2C740%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **148,839 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **151,740 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 148,839 domains · **Median ask:** $372.84 · **High-demand under $2,500:** 268
+**Public extract:** 1,000 rows · **Live catalog:** 151,740 domains · **Median ask:** $376.23 · **High-demand under $2,500:** 238
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/technology`
@@ -25,7 +25,7 @@ This selection covers one-word technology domain names across 506 different TLDs
 <p align="center">
   <a href="https://unique.domains/domains/sector/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./technology.csv">CSV</a> / <a href="./technology.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| data.cars       | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo         |
-| data.gratis     | resell    | $250       | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| data.attorney   | premium   | $3,300     | $3,300        | high           | medium | 4      | dynadot          |
-| data.country    | available | $2,298     | $2,450        | high           | medium | 4      | namecheap        |
-| data.rentals    | resell    | $85.80     | $85.80        | high           | medium | 4      | GoDaddy.com, LLC |
-| data.bargains   | premium   | $78.54     | $78.54        | high           | medium | 4      | namesilo         |
-| data.furniture  | available | $20.90     | $82.76        | high           | medium | 4      | spaceship        |
-| data.store      | resell    | $3,125     | $12,500       | high           | medium | 4      | GoDaddy.com, LLC |
-| data.boo        | premium   | $516.67    | $516.67       | high           | medium | 4      | spaceship        |
-| data.guitars    | available | $104.99    | $114.99       | high           | medium | 4      | namesilo         |
-| data.ag         | resell    | —          | —             | high           | medium | 4      | 1API GmbH        |
-| data.cfd        | premium   | $768       | $1,596        | high           | medium | 4      | namesilo         |
-| data.reise      | available | $75.20     | $75.20        | high           | medium | 4      | cloudflare       |
-| data.agency     | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| data.channel    | premium   | $648.70    | $648.70       | high           | medium | 4      | namecheap        |
-| data.reisen     | available | $16.76     | $16.76        | high           | medium | 4      | spaceship        |
-| data.apartments | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| data.college    | premium   | $10,350.20 | $10,350.20    | high           | medium | 4      | spaceship        |
-| data.ryukyu     | available | $17.98     | $22.98        | high           | medium | 4      | namecheap        |
-| data.black      | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| data.accountants   | available | $117.99   | $117.99       | high           | medium | 4      | namesilo             |
+| data.games         | resell    | $1,300    | $1,300        | high           | medium | 4      | GoDaddy.com, LLC     |
+| data.bar           | premium   | $2,047.50 | $2,925        | high           | medium | 4      | namecheap            |
+| data.car           | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo             |
+| data.sarl          | resell    | $42.90    | $42.90        | high           | medium | 4      | GoDaddy.com, LLC     |
+| data.beauty        | premium   | $715      | $715          | high           | medium | 4      | dynadot              |
+| data.cars          | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo             |
+| tech.rich          | resell    | $149.99   | —             | high           | medium | 4      | Porkbun LLC          |
+| data.best          | premium   | $1,151.62 | $1,151.62     | high           | medium | 4      | namesilo             |
+| data.christmas     | available | $30.20    | $30.20        | high           | medium | 4      | cloudflare           |
+| computing.app      | resell    | $498.75   | —             | high           | low    | 9      | Spaceship, Inc.      |
+| data.cfd           | premium   | $768      | $1,596        | high           | medium | 4      | namesilo             |
+| data.country       | available | $2,298    | $2,450        | high           | medium | 4      | namecheap            |
+| computing.computer | resell    | $29.99    | —             | high           | low    | 9      | GoDaddy.com, LLC     |
+| data.charity       | premium   | $207.20   | $207.20       | high           | medium | 4      | spaceship            |
+| data.hamburg       | available | $69.98    | $73.98        | high           | medium | 4      | namecheap            |
+| data.auction       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc          |
+| data.condos        | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo             |
+| data.immobilien    | available | $30.22    | $30.22        | high           | medium | 4      | spaceship            |
+| data.bond          | resell    | —         | —             | high           | medium | 4      | Dominet (HK) Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 148,839 live domains                                 |
+| 1,000-row public sample | 151,740 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 268 high-demand names under $2,500                   |
+| Basic exported fields   | 238 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_technology_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
