@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (175,072)
+# One-Word Technology Domain Names (175,066)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-175%2C072%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-175%2C066%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **175,072 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **175,066 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 175,072 domains · **Median ask:** $343.44 · **High-demand under $2,500:** 210
+**Public extract:** 1,000 rows · **Live catalog:** 175,066 domains · **Median ask:** $344.15 · **High-demand under $2,500:** 218
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| data.accountants | available | $93.35     | $93.35        | high           | medium | 4      | spaceship                                                 |
-| data.store       | resell    | $3,125     | $12,500       | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| data.bargains    | premium   | $72.60     | $72.60        | high           | medium | 4      | dynadot                                                   |
-| data.cars        | available | $1,863.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| tech.rich        | resell    | $149.99    | —             | high           | medium | 4      | Porkbun LLC                                               |
-| data.beauty      | premium   | $715       | $715          | high           | medium | 4      | dynadot                                                   |
-| data.christmas   | available | $30.20     | $30.20        | high           | medium | 4      | cloudflare                                                |
-| data.apartments  | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| data.best        | premium   | $929.57    | $929.57       | high           | medium | 4      | spaceship                                                 |
-| data.country     | available | $2,064.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| data.camp        | resell    | —          | —             | high           | medium | 4      | Dynadot Inc                                               |
-| data.cfd         | premium   | $621.20    | $1,242.20     | high           | medium | 4      | spaceship                                                 |
-| data.furniture   | available | $80.20     | $80.20        | high           | medium | 4      | cloudflare                                                |
-| data.care        | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| data.college     | premium   | $10,350.20 | $10,350.20    | high           | medium | 4      | spaceship                                                 |
-| data.guitars     | available | $93.35     | $103.40       | high           | medium | 4      | spaceship                                                 |
-| data.chat        | resell    | —          | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| data.condos      | premium   | $108.90    | $108.90       | high           | medium | 4      | dynadot                                                   |
-| data.immobilien  | available | $30.22     | $30.22        | high           | medium | 4      | spaceship                                                 |
-| data.credit      | resell    | —          | —             | high           | medium | 4      | Sav.com, LLC - 48                                         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| data.accountants | available | $117.99   | $117.99       | high           | medium | 4      | namesilo                                                  |
+| data.games       | resell    | $1,300    | $1,300        | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| data.bargains    | premium   | $72.60    | $72.60        | high           | medium | 4      | dynadot                                                   |
+| data.cars        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| data.store       | resell    | $3,125    | $12,500       | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| data.beauty      | premium   | $672.95   | $672.95       | high           | medium | 4      | spaceship                                                 |
+| data.christmas   | available | $1.24     | $31.16        | high           | medium | 4      | spaceship                                                 |
+| tech.rich        | resell    | $149.99   | —             | high           | medium | 4      | Porkbun LLC                                               |
+| data.best        | premium   | $1,149.36 | $1,149.36     | high           | medium | 4      | namesilo                                                  |
+| data.country     | available | $2,064.20 | $2,064.20     | high           | medium | 4      | spaceship                                                 |
+| data.apartments  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| data.boo         | premium   | $648.70   | $648.70       | high           | medium | 4      | namecheap                                                 |
+| data.furniture   | available | $20.90    | $82.76        | high           | medium | 4      | spaceship                                                 |
+| data.camp        | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| data.cfd         | premium   | $621.20   | $1,242.20     | high           | medium | 4      | spaceship                                                 |
+| data.guitars     | available | $100.20   | $100.20       | high           | medium | 4      | cloudflare                                                |
+| data.care        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| data.college     | premium   | $13,800   | $13,800       | high           | medium | 4      | namesilo                                                  |
+| data.immobilien  | available | $37.99    | $37.99        | high           | medium | 4      | namesilo                                                  |
+| data.chat        | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 175,072 live domains                                 |
+| 1,000-row public sample | 175,066 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 210 high-demand names under $2,500                   |
+| Basic exported fields   | 218 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
