@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (177,091)
+# One-Word Technology Domain Names (176,158)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-177%2C091%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-176%2C158%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **177,091 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **176,158 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 177,091 domains · **Median ask:** $342.07 · **High-demand under $2,500:** 205
+**Public extract:** 1,000 rows · **Live catalog:** 176,158 domains · **Median ask:** $342.44 · **High-demand under $2,500:** 2,931
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| data.car         | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo         |
-| data.games       | resell    | $1,300    | $1,300        | high           | medium | 4      | GoDaddy.com, LLC |
-| data.attorney    | premium   | $4,140    | $4,140        | high           | medium | 4      | namesilo         |
-| data.hamburg     | available | $69.98    | $73.98        | high           | medium | 4      | namecheap        |
-| data.gratis      | resell    | $250      | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| data.bar         | premium   | $2,475    | $2,475        | high           | medium | 4      | dynadot          |
-| data.holiday     | available | $67.98    | $81.98        | high           | medium | 4      | namecheap        |
-| data.rentals     | resell    | $85.80    | $85.80        | high           | medium | 4      | GoDaddy.com, LLC |
-| data.broker      | premium   | $6,500    | $6,500        | high           | medium | 4      | namecheap        |
-| data.juegos      | available | $321.22   | $321.22       | high           | medium | 4      | dynadot          |
-| data.sarl        | resell    | $42.90    | $42.90        | high           | medium | 4      | GoDaddy.com, LLC |
-| data.channel     | premium   | $516.67   | $516.67       | high           | medium | 4      | spaceship        |
-| data.reise       | available | $77.83    | $77.83        | high           | medium | 4      | spaceship        |
-| tech.rich        | resell    | $149.99   | —             | high           | medium | 4      | Porkbun LLC      |
-| data.charity     | premium   | $207.20   | $207.20       | high           | medium | 4      | spaceship        |
-| data.reisen      | available | $3.99     | $20.99        | high           | medium | 4      | namesilo         |
-| computing.app    | resell    | $498.75   | —             | high           | low    | 9      | Spaceship, Inc.  |
-| data.cv          | premium   | $1,309.75 | $87.75        | high           | medium | 4      | namecheap        |
-| data.republican  | available | $7.25     | $7.25         | high           | medium | 4      | namesilo         |
-| engineering.info | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| data.accountants   | available | $93.35    | $93.35        | high           | high   | 4      | spaceship        |
+| data.games         | resell    | $1,300    | $1,300        | high           | high   | 4      | GoDaddy.com, LLC |
+| data.beauty        | premium   | $832      | $832          | high           | high   | 4      | namesilo         |
+| data.car           | available | $2,070    | $2,400        | high           | high   | 4      | namecheap        |
+| data.sarl          | resell    | $42.90    | $42.90        | high           | high   | 4      | GoDaddy.com, LLC |
+| data.best          | premium   | $1,147.74 | $1,147.74     | high           | high   | 4      | namesilo         |
+| data.cars          | available | $1,863.20 | $2,064.20     | high           | high   | 4      | spaceship        |
+| data.store         | resell    | $3,125    | $12,500       | high           | high   | 4      | GoDaddy.com, LLC |
+| data.bot           | premium   | $5,175.20 | $5,175.20     | high           | high   | 4      | spaceship        |
+| data.christmas     | available | $1.24     | $31.16        | high           | high   | 4      | spaceship        |
+| tech.rich          | resell    | $149.99   | —             | high           | high   | 4      | Porkbun LLC      |
+| data.broker        | premium   | $6,500    | $6,500        | high           | high   | 4      | namecheap        |
+| data.country       | available | $2,298    | $2,450        | high           | high   | 4      | namecheap        |
+| computing.app      | resell    | $498.75   | —             | high           | medium | 9      | Spaceship, Inc.  |
+| data.cfd           | premium   | $780      | $1,560        | high           | high   | 4      | namecheap        |
+| data.hamburg       | available | $69.98    | $73.98        | high           | high   | 4      | namecheap        |
+| computing.computer | resell    | $29.99    | —             | high           | medium | 9      | GoDaddy.com, LLC |
+| data.college       | premium   | $11,000   | $11,000       | high           | high   | 4      | dynadot          |
+| data.immobilien    | available | $37.99    | $37.99        | high           | high   | 4      | namesilo         |
+| data.auction       | resell    | —         | —             | high           | high   | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 177,091 live domains                                 |
+| 1,000-row public sample | 176,158 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 205 high-demand names under $2,500                   |
+| Basic exported fields   | 2,931 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Technology Domain Names*. Version 2026-10-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Technology Domain Names*. Version 2026-10-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
