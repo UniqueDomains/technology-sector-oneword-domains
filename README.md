@@ -1,10 +1,10 @@
-# One-Word Technology Domain Names (173,259)
+# One-Word Technology Domain Names (173,156)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-173%2C259%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-173%2C156%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word technology domain names across 506 different TLDs, with a median ask near $786. Updated daily, it spans everything from niche extensions to mainstream ones, giving a broad, current view of pricing across this category.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **173,259 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **173,156 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 173,259 domains · **Median ask:** $315.12 · **High-demand under $2,500:** 8,512
+**Public extract:** 1,000 rows · **Live catalog:** 173,156 domains · **Median ask:** $320.13 · **High-demand under $2,500:** 8,815
 
 **Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/technology`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| data.accountants    | available | $117.99   | $117.99       | high           | high   | 4      | namesilo                                                  |
-| network.co          | resell    | —         | —             | high           | medium | 7      | Hello Internet Corp.                                      |
-| data.attorney       | premium   | $1,639.13 | $3,275.50     | high           | high   | 4      | porkbun                                                   |
-| data.cars           | available | $1,863.20 | $2,064.20     | high           | high   | 4      | spaceship                                                 |
-| network.codes       | resell    | —         | —             | high           | medium | 7      | Dynadot Inc                                               |
-| data.bargains       | premium   | $78.54    | $78.54        | high           | high   | 4      | namesilo                                                  |
-| data.country        | available | $2,064.20 | $2,064.20     | high           | high   | 4      | spaceship                                                 |
-| network.computer    | resell    | —         | —             | high           | medium | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| data.beauty         | premium   | $832      | $832          | high           | high   | 4      | namesilo                                                  |
-| data.furniture      | available | $20.90    | $82.76        | high           | high   | 4      | spaceship                                                 |
-| network.finance     | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                                           |
-| data.best           | premium   | $925.72   | $925.72       | high           | high   | 4      | spaceship                                                 |
-| data.guitars        | available | $108.98   | $159.98       | high           | high   | 4      | namecheap                                                 |
-| network.info        | resell    | —         | —             | high           | medium | 7      | Hosting Concepts B.V. d/b/a Registrar.eu                  |
-| data.boo            | premium   | $516.67   | $516.67       | high           | high   | 4      | spaceship                                                 |
-| data.reise          | available | $77.83    | $77.83        | high           | high   | 4      | spaceship                                                 |
-| network.investments | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC                                          |
-| data.cfd            | premium   | $780      | $1,560        | high           | high   | 4      | namecheap                                                 |
-| data.ryukyu         | available | $17.98    | $22.98        | high           | high   | 4      | namecheap                                                 |
-| network.vision      | resell    | —         | —             | high           | medium | 7      | Dynadot Inc                                               |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| data.guitars       | available | $93.35    | $103.40       | high           | high   | 4      | spaceship        |
+| network.center     | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC |
+| data.attorney      | premium   | $3,105.20 | $3,105.20     | high           | high   | 4      | spaceship        |
+| data.hamburg       | available | $69.98    | $73.98        | high           | high   | 4      | namecheap        |
+| network.claims     | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| data.bar           | premium   | $3,105    | $3,105        | high           | high   | 4      | namesilo         |
+| data.holiday       | available | $64.99    | $64.99        | high           | high   | 4      | namesilo         |
+| network.institute  | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| data.bot           | premium   | $5,175.20 | $5,175.20     | high           | high   | 4      | spaceship        |
+| data.luxury        | available | $26       | $26           | high           | high   | 4      | spaceship        |
+| network.markets    | resell    | —         | —             | high           | medium | 7      | DomainTact LLC   |
+| data.broker        | premium   | $5,500    | $5,500        | high           | high   | 4      | dynadot          |
+| data.reise         | available | $27.89    | $97.99        | high           | high   | 4      | namesilo         |
+| network.men        | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| data.channel       | premium   | $516.67   | $516.67       | high           | high   | 4      | spaceship        |
+| data.reisen        | available | $16.76    | $16.76        | high           | high   | 4      | spaceship        |
+| network.technology | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| data.charity       | premium   | $207.20   | $207.20       | high           | high   | 4      | spaceship        |
+| data.republican    | available | $7.25     | $7.25         | high           | high   | 4      | namesilo         |
+| computer.so        | resell    | —         | —             | high           | low    | 8      | NameCheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 173,259 live domains                                 |
+| 1,000-row public sample | 173,156 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 8,512 high-demand names under $2,500                 |
+| Basic exported fields   | 8,815 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
